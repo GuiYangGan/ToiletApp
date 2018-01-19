@@ -13,8 +13,8 @@
 
 打开本地终端，找到文件夹 totitle
 
-执行命令 npm install，安装
+执行命令`npm install`，安装
 
-安装完成后，执行 react-native run-android
+安装完成后，执行`react-native run-android`
 
 启动成功后可在安卓模拟器上打开程序
