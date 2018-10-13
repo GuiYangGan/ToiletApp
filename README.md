@@ -4,7 +4,7 @@
 
 根据React Native官网教程在本地电脑配置Android模拟器
 
-官网：http://facebook.github.io/react-native/docs/getting-started.html
+官网：http://facebook.github.io/react-native/docs/getting-started
 
 中文网：https://reactnative.cn/docs/getting-started.html
 
