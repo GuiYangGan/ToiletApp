@@ -6,7 +6,7 @@
 
 官网：http://facebook.github.io/react-native/docs/getting-started.html
 
-中文网：https://reactnative.cn/docs/0.51/getting-started.html
+中文网：https://reactnative.cn/docs/getting-started.html
 
 
 配置成功后，启动安卓模拟器
