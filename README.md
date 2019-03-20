@@ -4,16 +4,16 @@
 
 根据React Native官网教程在本地电脑配置Android模拟器
 
-官网：http://facebook.github.io/react-native/docs/getting-started
+> 官网：https://facebook.github.io/react-native/docs/getting-started
 
-中文网：https://reactnative.cn/docs/getting-started.html
+> 中文网：https://reactnative.cn/docs/getting-started.html
 
 
 配置成功后，启动安卓模拟器
 
 打开本地终端，找到文件夹 totitle
 
-执行命令`npm install`，安装
+执行命令`npm install`安装
 
 安装完成后，执行`react-native run-android`
 
