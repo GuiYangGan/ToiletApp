@@ -3,201 +3,201 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_82ba62b2cb852294e5c3a81404f1d810ad9b1150.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ab8e85cd040423e014120a13864462a72566a41f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c488c580263bc1834f37b85b4c186f4d46d89a20.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_ccc502db9c6dd13821a4c89ee1f89708b0380021.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_cb0f04c3d83ef6d7c8d0c680b4f40c007598b49a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_1a4eba318a3b62dd672266390f16f3ac60ba7209.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_1cf7d275dea5a088ce2dc675080aa88b77961c04.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_82669480fa49d3c9a2da6cde430bd5aa29b18d8b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_355fb319b6ffe0284bedf0e1e4c04d0bd78e208e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_bf1d93590346a446093d4a291be627358592c979.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_f77be49ebea1ac909ab6e1a88f3abd17ae0e1321.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_5dfba599455acb004889d8edeed2d77c4ea134a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_021f8a3b531b50ec3633cec6415e666a67bbcd60.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.44.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.44.0_dd25b626ac5b86ea0a9e259511b54e2eb68a5b9f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_35b9fe382d41097fe7bc18167ceaf4c2b199e5f4.jar" />
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_3951c47c82f4bb0b36f440881315e1c9388398c5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_b9e893a0e12a82f195bf67d9a40073be77dd17b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.44.0\jars\libs\infer-annotations-1.5.jar"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/libs/infer-annotations-1.5.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_bdf3bc5c10b2d6d3aaa0d039b4d8441686c06298.jar" />
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_c81776431e0ed832d1c72487beb0dee3749361ec.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jar="/Users/ganguiyang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_77e4ac527b930ae78f31e6d1cfb7dfcfbe4d292b.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_1bd922b8330f54f5905cdd5fa96e2689451d3d58.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_48ba7d6dd2b8b7e2d1cca85d6f0a0914342f486e.jar" />
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_863f3b2acaf8026b766bbe3f4fc82cb4f256fcad.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6efbe07a00f224e4e2012211588fc6eebcc994ed.jar" />
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_8434f8493d14d1c76a93e827b29a6803dde16cbd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c822022f5126bb5b287eecd7c4d6632c411e09e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5f52161ca87b204c3594fd081519691be1541931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f2f3e4097c997d33921ea4a923e1e4387b8330c1.jar" />
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_28dfbad4080a19eff19e3646e712b5e990edde7b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_dfb27d98ee6c158717f55180e7620a7a834a5b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_b18c9f0ea78781af471f6e4408dd4f1f66238b36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_b98a9281c28af57b7a52daf135db578b6105c51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_ecf7653036e32c976eb39772bc8fb68ae008dde4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c9d5c22009b1307a2eb9e7ed5ca4ec15ec79b62f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f1724f6104ac5cd7cacf098f5ebfa9eb570258cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_7c2adbdfaaa56b2770695f5ea64d839170a08c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1f0d5a5d5f5e7d93d814062a311c32972572cb77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_c21386a29f42b3d2f0d24bfb3529af88e7af65b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_35f5fc2b2e5e17683b10657d2c786d83113a91d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\admin\Desktop\APP\toilet\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_9a60175d8a62c8ae28c0d8ee1638e9f2c3a58277.jar" />
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_74a1f0a417cb29805635bd4e60d03e0dd96fdb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_be4aadc66bc9f7459e04956c36c2311260e78b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_d8fac397a3fccba2a54955268d779ba8f928febc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ganguiyang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_e1390c43a2dd42d8af3567e9f35601ad33ec17e6.jar" />
     </item>
 
 </items>

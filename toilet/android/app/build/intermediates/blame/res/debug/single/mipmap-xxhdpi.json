@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

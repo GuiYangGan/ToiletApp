@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.0\\res\\xml\\preferences.xml"
+        "merged": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "/Users/ganguiyang/Codes/git/ToiletApp/toilet/android/C:\\Users\\admin\\Desktop\\APP\\toilet\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.44.0\\res\\xml\\preferences.xml"
     }
 ]
